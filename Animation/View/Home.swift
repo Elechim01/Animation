@@ -49,7 +49,7 @@ struct Home: View {
 //            Custom Tab Bar
             CustomTabBar(animation: animation,size: size,bottomEdge: bottomEdge,currentTab: $currentTab)
                 .background(Color.white)
-        }
+        } 
     }
 }
 
